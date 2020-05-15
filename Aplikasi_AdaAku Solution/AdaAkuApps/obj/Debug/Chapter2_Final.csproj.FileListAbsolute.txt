@@ -1,0 +1,10 @@
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.csprojResolveAssemblyReference.cache
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.Properties.Resources.resources
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.csproj.GenerateResource.Cache
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.csproj.CoreCompileInputs.cache
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\bin\Debug\Chapter2_Final.exe.config
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\bin\Debug\Chapter2_Final.exe
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\bin\Debug\Chapter2_Final.pdb
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.exe
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.pdb
+C:\Users\b4n53pu2 i7\source\repos\Chapter2_Final\Chapter2_Final\obj\Debug\Chapter2_Final.Form1.resources

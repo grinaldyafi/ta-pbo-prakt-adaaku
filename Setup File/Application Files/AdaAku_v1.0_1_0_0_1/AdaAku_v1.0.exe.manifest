@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AdaAku_v1.0.exe" version="1.0.0.1" publicKeyToken="9e35a7aa398b0d87" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="logos.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AdaAku_v1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AdaAku_v1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AdaAku_v1.0.exe" size="1643016">
+      <assemblyIdentity name="AdaAku_v1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bt+DJ9mQJbGaLOnXHGw6KQj39x82wu5oWV8HK1qEj9U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5196496">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7W69dJBS+QGPZplnGuVGmt7fCGz4sb1CVrvpxOf2/wU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="621264">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ob9snjgg6D9D6fIN19mwozYqkxRvCv4LEzAYXi1RsMs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AdaAku_v1.0.exe.config" size="462">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gfJEBRcwc1K+2uCqqBnGKh7571J4VdtHhML3eZmP3jY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DaftarDiary.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VnYacRa2aGuBdhvir1OOs1kD58uq3e169Kgd80VjaFw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DaftarDiary_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BUj/5+q0sp+JcRNy8MNuRyvYmCA5BWIGyQ/k6RBKub0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="logos.ico" size="508286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rwl/4/lJkZF2GRirCcntKDFTs2loTiEyEG+acPqjUe0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-TNST8OV\b4n53pu2 i7" issuerKeyHash="3fcd7a303892965d2aa378b6c895cbd01f3cc471" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>siNrpNKdQIC3Uly+XST6cvrG2sYuqdte7HNt+l7bC74=</DigestValue></Reference></SignedInfo><SignatureValue>Nb4gxvn4IAGl/Uu5i/MRIpXTJy0p5RWI2aXMupW0zhUSaZbx1/b0F+nHxSaHJLhgQsKfjLqr3sa7EtGOoz4Go2xwLXkEqOjXYELVrxUxEvlrS8U8q7bECVLQiwXLzuNoit9hUVqL2IUCf8Evv1EcOTrbIG9dbVOubyP2GmhkamQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9TbDVeToIzwmt1UfsmtoD4TMjUsTsi9yWeJ942R25CS8YGKgx6gbVY75fR2syV1xPL5r9lqmyA0j4YcJBJcDmcYd+WiPDP/MSQBYHMUhudbphXG+apc64OPVkYX4NvlWkp91rGQ2+cNG+3/+ATQWtmdnbKnyCSYeovTj6t72q20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="be0bdb5efa6d73ec5edba92ec6dac6fa72fa245dbe5c52b780409dd2a46b23b2" Description="" Url=""><as:assemblyIdentity name="AdaAku_v1.0.exe" version="1.0.0.1" publicKeyToken="9e35a7aa398b0d87" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-TNST8OV\b4n53pu2 i7</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pIFf6+ORCPpr7u5r/LMc9yyaPTVnG5LqkB4/k0JcoVQ=</DigestValue></Reference></SignedInfo><SignatureValue>jSv+bCAoW2JemvdOie2elwGEnVxt2v3ktCGnd7TrL7F2wIlF2oMBTCzK4+V6V37PSrV5ipgeYPrkHX+IyC+FR98ebVoAjquD+m5anpLt9B33vuEWd3jpoJL1ZmvjYLX8I4/GoNEn0VMwJDo9WLEz46CJ28qAfEdRQFT1yYSrKh4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9TbDVeToIzwmt1UfsmtoD4TMjUsTsi9yWeJ942R25CS8YGKgx6gbVY75fR2syV1xPL5r9lqmyA0j4YcJBJcDmcYd+WiPDP/MSQBYHMUhudbphXG+apc64OPVkYX4NvlWkp91rGQ2+cNG+3/+ATQWtmdnbKnyCSYeovTj6t72q20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQL9UIgrxjtINISCwhSgEpIjANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtAFQATgBTAFQAOABPAFYAXABiADQAbgA1ADMAcAB1ADIAIABpADcwHhcNMjAwNTE0MTAzMTIwWhcNMjEwNTE0MTYzMTIwWjBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtAFQATgBTAFQAOABPAFYAXABiADQAbgA1ADMAcAB1ADIAIABpADcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAPU2w1Xk6CM8JrdVH7JraA+EzI1LE7IvclnifeNkduQkvGBioMeoG1WO+X0drMldcTy+a/ZapsgNI+GHCQSXA5nGHflojwz/zEkAWBzFIbnW6YVxvmqXOuDj1ZGF+Db5VpKfdaxkNvnDRvt//gE0FrZnZ2yp8gkmHqL04+re9qttAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAXbKjnpw9hE3oobldlBnZ0XeQISmqayoOQywPAAIpsFo7U3GJQzwGz5dHf6LkMXb4AUXVkxme0nYwjMp6Uusg0Di7nc0/DGl8pRTKFW/VPqGN68m4SEPfhEWNNIjbf823Vo6RG+K05B7/LIFMWc0CkRCl+ehgG5s/pFoy51J2r5Y=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

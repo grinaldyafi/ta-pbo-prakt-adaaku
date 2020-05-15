@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Berbagai cara menghilangkan rasa cemas berlebihan
+1. Kembali ke lingkungan Anda
+Biasanya, ketika seseorang mengalami cemas berlebihan, mereka akan cenderung menarik diri dari lingkungan. Padahal, salah satu cara untuk mengatasi depresi adalah dengan adanya dukungan sosial dari orang terdekat. Ketika Anda sedang mengalami kecemasan atau depresi, cobalah untuk mengungkapkan apa yang Anda rasakan dan tetaplah menjalin hubungan dengan lingkungan sekitar. Meski tidak mudah, namun mengisolasi diri dari lingkungan juga bukanlah jalan keluar dari kekalutan yang sedang Anda alami.
+
+2. Lakukan apa yang Anda sukai
+Salah satu cara terbaik untuk menghilangkan cemas dan kecenderungan depresi adalah dengan melakukan apa yang Anda sukai – nonton film, jalan-jalan, pergi ke pantai, bernyanyi, dll. Dan meski Anda tidak selamanya bisa memaksa diri untuk melakukan hal yang Anda sukai, namun tetap selalu berusaha untuk mendorong diri sendiri agar selalu aktif berkegiatan -setidaknya bukan yang Anda benci.
+
+3. Lakukan hal baru
+Selain melakukan hal yang Anda senangi, Anda juga perlu untuk melakukan hal baru untuk menghilangkan rasa cemas berlebihan. Ketika Anda menantang diri sendiri dengan melakukan hal baru, tanpa Anda sadari tubuh Anda akan memproduksi hormon dopamin yang berhubungan dengan rasa senang dan bahagia.
+
+4. Keluar rumah agar Anda bermandikan sinar matahari
+Tanpa Anda sadari, kurangnya sinar matahari dapat memperburuk rasa cemas berlebihan dan depresi Anda. Cobalah sesekali keluar dari kamar Anda agar Anda dapat terkena sinar matahari, setidaknya 15 menit sehari. Sinar matahari diketahui dapat meningkatkan kadar hormon bahagia serotonin sehingga memperbaiki mood Anda.
+
+5. Olahraga yang rajin
+Penelitian menunjukkan bahwa olahraga teratur dapat menghilangkan gejala depresi. Aktifitas fisik seperti berolahraga ternyata dapat meningkatkan produksi endorfin yang memiliki efek mengurangi rasa sakit dan memicu perasaan senang, tenang, atau bahagia. Dan tentunya, Anda tidak perlu berolahraga berlebihan untuk mendapatkan manfaatnya, cukup olahraga ringan namun dilakukan secara rutin seperti jalan kaki 10 menit, dll. 
+
+6. Makan makanan yang sehat
+Tanpa Anda sadari, makanan yang Anda konsumsi dapat berdampak pada perasaan Anda. Oleh karena itu, tidak mengherankan jika Anda akan merasa kesal ataupun lelah saat Anda telat makan. Dan untuk mengatasi rasa cemas atau depresi, Anda dapat meminimalkan konsumsi gula dan karbohidrat olahan namun Anda dianjurkan untuk meningkatkan asupan vitamin B karena kekurangan vitamin B (seperti asam folat dan B12) dapat memicu depresi. Beberapa makanan yang dapat mengatasi depresi adalah makanan yang kaya akan omega-3 seperti salmon, tuna, dll.
+
+7. Tidur yang cukup
+Sulit tidur dapat menjadi salah satu gejala depresi. Untuk mengatasi perasaan cemas atau depresi, cobalah untuk mengubah pola tidur Anda. Mulailah untuk tidur cukup setidaknya 7 jam per hari, dan singkirkanlah hal-hal yang dapat menganggu kualitas tidur Anda.
+
+8. Berpikir positif
+Satu hal yang bisa membuat rasa cemas dan depresi Anda semakin memburuk adalah pikiran negatif tentang diri sendiri atau lingkungan sekitar Anda. Oleh karena itu, salah satu cara untuk mengatasi rasa cemas dan depresi adalah dengan berpikir positif.
+
+Jika Anda telah melakukan beberapa tips menghilangkan rasa cemas di atas namun perasaan negatif tersebut tidak kunjungmembaik, konsultasikan ke dokter untuk mendapatkan diagnosis dan bantuan medis yang tepat demi kesembuhan Anda.
+
+
+Video tentang kecemasan 
+1. https://youtu.be/3gUkFabmzJw</value>
+  </data>
+</root>

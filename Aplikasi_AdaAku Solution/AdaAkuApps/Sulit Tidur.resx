@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Kenali Beragam Cara Cepat Tidur yang Mudah dan Praktis
+Susah tidur atau insomnia merupakan gangguan kesehatan yang harus mendapatkan penanganan yang tepat, karena jika dibiarkan berlarut-larut, waktu tidur ideal jadi tidak tercukupi dalam jangka lama dan akan memengaruhi kesehatan. Nah, salah satu cara yang bisa Anda lakukan adalah dengan melakukan kebiasaan berikut:
+
+1. Tidur di jam yang sama tiap malam
+Cobalah untuk menerapkan disiplin waktu tidur. Caranya adalah dengan tidur dan bangun di jam yang sama setiap harinya. Hal ini akan membuat tubuh Anda terbiasa tidur dan bangun di jam yang sama.
+
+2. Matikan peralatan elektronik
+Cara cepat tidur selanjutnya adalah dengan mematikan semua alat-alat elektronik, seperti telepon seluler dan tablet, sekitar 1,5 jam sebelum tidur. Jika Anda terbangun di tengah malam, disarankan juga untuk tidak menyalakan ponsel, karena cahaya yang dipancarkan bisa menurunkan produksi hormon melatonin, sehingga membuat tidur Anda terganggu.
+
+3. Hindari konsumsi makanan atau minuman ini sebelum tidur
+Usahakan untuk tidak mengonsumsi makanan tinggi lemak terlalu dekat dengan waktu tidur, karena hal ini akan membuat tubuh bekerja ekstra keras untuk memecah lemak, sehingga membuat Anda lebih susah tidur.
+
+4. Mandi air hangat sebelum tidur
+Mandi air hangat sebelum tidur di malam hari juga diyakini dapat membuat tubuh lebih rileks, yang akhirnya akan membantu Anda tidur lebih cepat dan lebih nyenyak.
+
+5. Konsumsi makanan berkarbohidrat
+Mengonsumsi makanan berkarbohidrat dalam jumlah yang cukup beberapa jam sebelum tidur diduga dapat membuat kita terlelap lebih cepat. Hal ini diyakini karena  karbohidrat mampu meningkatkan kadar hormon tryptophan yang membuat Anda lebih mudah mengantuk. Namun, hal ini masih perlu diteliti lebih lanjut.
+
+6. Melakukan latihan pernapasan
+Cara cepat tidur yang bisa Anda lakukan selanjutnya adalah melakukan latihan pernapasan. Caranya, tarik napas melalui hidung selama empat hitungan, tahan napas selama tujuh hitungan, dan buang napas pelan-pelan melalui mulut selama delapan hitungan. Ulangi pola ini sebanyak empat kali.
+
+Jika dilakukan dengan rutin, latihan pernapasan ini diyakini bisa membuat Anda lebih rileks dan lebih mudah untuk tertidur.
+
+Sumber : https://www.alodokter.com/ini-cara-cepat-tidur-yang-mudah-dan-praktis
+
+
+Musik pengantar tidur 
+1. https://youtu.be/1ZYbU82GVz4</value>
+  </data>
+</root>

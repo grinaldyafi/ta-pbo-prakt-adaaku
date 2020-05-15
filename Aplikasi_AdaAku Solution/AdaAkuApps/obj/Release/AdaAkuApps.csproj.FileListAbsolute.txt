@@ -1,0 +1,79 @@
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\DaftarDiary.mdf
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\DaftarDiary_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\EntityFramework.dll
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\EntityFramework.xml
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.CariDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.InputDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Insecure.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Kecemasan.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Form1.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Form2.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Properties.Resources.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.SplashScreen.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku.Sulit_Tidur.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.GenerateResource.Cache
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.config
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.pdb
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\Unit 4\Grinaldy Yafi' Rasyad_Unit4_kuis\Aplikasi_adaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.pdb
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\DaftarDiary.mdf
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\DaftarDiary_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.config
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.pdb
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.dll
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.xml
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAkuApps.csprojResolveAssemblyReference.cache
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.CariDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.InputDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Insecure.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Kecemasan.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Form1.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Form2.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Properties.Resources.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.SplashScreen.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Sulit_Tidur.resources
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.GenerateResource.Cache
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\Unit 5\Grinaldy Yafi' Rasyad_Unit5_kuis\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.pdb
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\DaftarDiary.mdf
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\DaftarDiary_log.ldf
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.config
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\AdaAku_v1.0.pdb
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.dll
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.xml
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\bin\Release\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.CariDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.InputDiary.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Insecure.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Kecemasan.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Form1.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Form2.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Properties.Resources.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.SplashScreen.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku.Sulit_Tidur.resources
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.GenerateResource.Cache
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAkuApps.csproj.CoreCompileInputs.cache
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe.manifest
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.application
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.exe
+D:\Materi Kuliah\PBO\Praktikum\TA Praktikum\Aplikasi_AdaAku\AdaAkuApps\obj\Release\AdaAku_v1.0.pdb
